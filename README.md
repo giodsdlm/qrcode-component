@@ -49,7 +49,6 @@ ___
 As I built this project I learned on how to make a content resizable accordingly to the screen size by using the 'transform' CSS property.
 I also learned about the use of the '@media' property and how to define a set of properties to respond to a min and max screen resolution.
 
-To see how you can add code snippets, see below:
 
 ```css
 @media (min-width: 768px) and (max-width: 1920px) {
