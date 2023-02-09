@@ -32,7 +32,7 @@ Mobile page
 
 ### Links
 
-- Solution URL: [on Netfly](https://zesty-longma-398414.netlify.app/)
+- Live site URL: [on Netfly](https://zesty-longma-398414.netlify.app/)
 
 ___
 
